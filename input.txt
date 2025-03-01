@@ -1,0 +1,52 @@
+# Bahasa CPP
+1
+2
+Z006
+Bandana Anjing
+PawStyle
+85000
+25
+Aksesoris
+Kain
+Ungu
+Anjing
+M
+PawStyle
+1
+3
+
+
+# Bahasa Java
+1
+2
+K010
+Topeng Kucing
+EmengMask
+35000
+20
+Aksesoris
+Plastik
+Hitam
+Kucing
+SS
+EmengMask
+1
+3
+
+
+# Bahasa Python
+1
+2
+G009
+Gelang Kucing
+EmengStore
+20000
+29
+Aksesoris
+Karet
+Ungu
+Kucing
+SS
+EmengStore
+1
+3
