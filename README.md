@@ -8,7 +8,13 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Dokumentasi
 ### Hasil Dokumentasi CPP
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-1.jpg)
 
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-2.jpg)
+
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-3.jpg)
+
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-4.jpg)
 
 ### Hasil Dokumentasi Java
 
