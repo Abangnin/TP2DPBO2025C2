@@ -8,13 +8,17 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Dokumentasi
 ### Hasil Dokumentasi CPP
-![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-1.jpg)
+- Menampilan data produk / Menu 1
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cppnih-1.jpg)
 
-![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-2.jpg)
+- Menambahkan data produk yang baru / Menu 2
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cppnih-2.jpg)
 
-![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-3.jpg)
+- Menampilkan hasil data produk yang telah ditambahkan / Menu 1
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cppnih-3.jpg)
 
-![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cpp-4.jpg)
+- Keluar / Menu 3
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/CPP/Dokumentasi/cppnih-4.jpg)
 
 ### Hasil Dokumentasi Java
 - Menampilkan data produk / Menu 1
