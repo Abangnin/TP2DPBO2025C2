@@ -8,7 +8,9 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Penjelasan Program
 
-Program ini dirancang sebagai sistem manajemen produk untuk pet shop dengan menerapkan konsep inheritance dalam pemrograman berorientasi objek. Kelas utama, yaitu PetShop, berfungsi sebagai kelas induk yang menyimpan atribut dasar produk, seperti ID, nama produk, brand, harga, dan stok. Kelas ini juga memiliki metode tampilkanData(), yang bertanggung jawab untuk menampilkan informasi produk. Kelas Aksesoris merupakan turunan dari PetShop, yang menambahkan atribut tambahan, yaitu jenis aksesoris, bahan, dan warna, serta mengoverride metode tampilkanData() untuk menampilkan informasi yang lebih lengkap. Selanjutnya, kelas Baju merupakan turunan dari Aksesoris, yang menambahkan atribut spesifik, seperti untuk jenis hewan, ukuran baju, dan merek.
+Program ini memiliki beberapa kelas. Kelas utama, yaitu PetShop, berfungsi sebagai kelas induk yang menyimpan atribut dasar produk, seperti ID, nama produk, brand, harga, dan stok. Kelas ini juga memiliki metode tampilkanData(), yang digunakan untuk menampilkan informasi produk. Kelas Aksesoris merupakan turunan dari PetShop, yang menambahkan atribut tambahan, yaitu jenis aksesoris, bahan, dan warna, serta ada metode tampilkanData() untuk menampilkan informasi yang lebih lengkap. Dan  kelas Baju merupakan turunan dari Aksesoris, yang menambahkan atribut spesifik, seperti untuk jenis hewan, ukuran baju, dan merek.
+
+Disini User bisa menambahkan produk baru dengan cara ADD atau tambah, dan saat menampilkan ada 5 data produk yang sudah ada dari awal atau bisa dibilang data produk awalnya.
 
 - Kelas PetShop
     
