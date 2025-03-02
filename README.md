@@ -47,3 +47,12 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 ![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/Python/Dokumentasi/piton-4.jpg)
 
 ### Hasil Dokumentasi PHP
+- Menampilkan 5 data awal
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/pehape-1.jpg)
+
+- Menambahkan produk baru
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/pehape-2.jpg)
+
+- Menampilkan produk yang telah ditambahkan
+![SS-1](https://github.com/Abangnin/TP2DPBO2025C2/blob/main/PHP/Dokumentasi/pehape-3.jpg)
+
