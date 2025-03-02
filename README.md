@@ -8,12 +8,7 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
 ## Penjelasan Program
 
-1. PetShop adalah kelas dasar yang menyediakan atribut umum untuk semua produk.
-
-2. Aksesoris adalah kelas menengah yang menambahkan atribut spesifik untuk aksesoris.
-
-3. Baju adalah kelas paling khusus yang menambahkan atribut tambahan untuk pakaian hewan.
-
+Program ini dirancang sebagai sistem manajemen produk untuk pet shop dengan menerapkan konsep inheritance dalam pemrograman berorientasi objek. Kelas utama, yaitu PetShop, berfungsi sebagai kelas induk yang menyimpan atribut dasar produk, seperti ID, nama produk, brand, harga, dan stok. Kelas ini juga memiliki metode tampilkanData(), yang bertanggung jawab untuk menampilkan informasi produk. Kelas Aksesoris merupakan turunan dari PetShop, yang menambahkan atribut tambahan, yaitu jenis aksesoris, bahan, dan warna, serta mengoverride metode tampilkanData() untuk menampilkan informasi yang lebih lengkap. Selanjutnya, kelas Baju merupakan turunan dari Aksesoris, yang menambahkan atribut spesifik, seperti untuk jenis hewan, ukuran baju, dan merek.
 
 - Kelas PetShop
     
@@ -49,7 +44,12 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 
         3. merk → Merk baju/brand gitu
 
+Kesimpulan:
+1. PetShop adalah kelas dasar yang menyediakan atribut umum untuk semua produk.
 
+2. Aksesoris adalah kelas menengah yang menambahkan atribut spesifik untuk aksesoris.
+
+3. Baju adalah kelas paling khusus yang menambahkan atribut tambahan untuk pakaian hewan.
 
 ## Dokumentasi
 ### Hasil Dokumentasi CPP
