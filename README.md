@@ -44,7 +44,7 @@ Program ini dirancang sebagai sistem manajemen produk untuk pet shop dengan mene
 
         3. merk → Merk baju/brand gitu
 
-Kesimpulan:
+Tambahan Note:
 1. PetShop adalah kelas dasar yang menyediakan atribut umum untuk semua produk.
 
 2. Aksesoris adalah kelas menengah yang menambahkan atribut spesifik untuk aksesoris.
