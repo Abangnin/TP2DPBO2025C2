@@ -6,7 +6,49 @@ Saya Muhammad Naufal Arbanin dengan NIM 2310850 mengerjakan soal Tugas Praktikum
 ## Diagram
 ![Image](https://github.com/user-attachments/assets/cfa9dd8c-3f23-45bb-a48e-6ee2b249bdda)
 
-## Alur Program
+## Penjelasan Program
+
+1. PetShop adalah kelas dasar yang menyediakan atribut umum untuk semua produk.
+
+2. Aksesoris adalah kelas menengah yang menambahkan atribut spesifik untuk aksesoris.
+
+3. Baju adalah kelas paling khusus yang menambahkan atribut tambahan untuk pakaian hewan.
+
+
+- Kelas PetShop
+    
+    Memiliki Atribut:
+
+        1. id → ID produk
+
+        2. nama_produk → Nama produk
+
+        3. brand → Merk produk
+
+        4. harga_produk → Harga produk
+
+        5. stok_produk → Jumlah stok produk
+
+- Kelas Aksesoris
+
+    Memiliki Atribut:
+
+        1. jenis → Jenis aksesoris (kalung, topi, dll.)
+
+        2. bahan → Bahan aksesoris (kulit, wol, dll.)
+
+        3. warna → Warna aksesoris
+
+- Kelas Baju
+
+    Memiliki Atribut:
+
+        1. untuk → Jenis hewan yang memakai baju (kucing/anjing)
+
+        2. size → Ukuran baju (SS, S, M, L, XL)
+
+        3. merk → Merk baju/brand gitu
+
 
 
 ## Dokumentasi
